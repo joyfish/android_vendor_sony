@@ -175,6 +175,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_dc_current_limit_value.so:system/lib/sysmon/sysmon_dc_current_limit_value.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_gpu_perflevel.so:system/lib/sysmon/sysmon_gpu_perflevel.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_lcd_brightness_level.so:system/lib/sysmon/sysmon_lcd_brightness_level.so \
+    vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_modem_8X26.so:system/lib/sysmon/sysmon_modem_8X26.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_msm_thermal_disable.so:system/lib/sysmon/sysmon_msm_thermal_disable.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_msm_therm.so:system/lib/sysmon/sysmon_msm_therm.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_pa_therm0.so:system/lib/sysmon/sysmon_pa_therm0.so \
