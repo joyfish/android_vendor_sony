@@ -21,6 +21,5 @@ PRODUCT_COPY_FILES += \
     vendor/sony/qcom-common/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libllvm-a3xx.so:system/vendor/lib/libllvm-a3xx.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libllvm-arm.so:system/vendor/lib/libllvm-arm.so \
-    vendor/sony/qcom-common/proprietary/lib/libLLVM.so:system/lib/libLLVM.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so
